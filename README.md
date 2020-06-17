@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="download.png" >
+  <img src="Banner - LB.png" >
 </p>
 
 # Leon Bueno
@@ -19,7 +19,7 @@ My credentials include a graduation in Economics from Universidade Federal do Pa
 
 ## Projetos:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Como usar o Histograma para Data Science:**
 
 ---
 

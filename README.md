@@ -13,7 +13,7 @@ My credentials include a graduation in Economics from Universidade Federal do Pa
 **Background in:** Python, SQL, Power BI, Qlikview Tableau
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/leon-bueno)
+* [LinkedIn](https://www.linkedin.com/in/leon-bueno-a85a32b8/)
 
 
 

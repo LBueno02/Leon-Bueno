@@ -19,7 +19,7 @@ My credentials include a graduation in Economics from Universidade Federal do Pa
 
 ## Projetos:
 
-* **Como usar o Histograma para Data Science:**
+* *Not Applicable:**
 
 ---
 

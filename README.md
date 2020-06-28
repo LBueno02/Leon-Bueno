@@ -19,7 +19,7 @@ My credentials include a graduation in Economics from Universidade Federal do Pa
 
 ## Projetos:
 
-* [Dashboard COVID-19 Brazil](https://bityli.com/EZbiX)
+* PBI - [Dashboard COVID-19 Brazil](https://bityli.com/EZbiX)
 
 ---
 

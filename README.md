@@ -4,7 +4,7 @@
 </p>
 
 # Leon Bueno
-<sub>*Data Analyst* 
+<sub>*Market Intelligence Analyst* 
 
 As a Economist and Data Science student i can combine analytical skills, good knowledge in data tools and great ability to work in group to create solution in data analytics helping to find solutions to real problems.
 

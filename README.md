@@ -10,7 +10,7 @@ As a Economist and Data Science student i can combine analytical skills, good kn
 
 My credentials include a graduation in Economics from Universidade Federal do Paraná (UFPR), Econometrics Course in same institution and several courses in data area.
 
-**Background in:** Python, SQL, Power BI, Qlikview Tableau
+**Background in:** Python, SQL, Power BI, Qlikview, Tableau, Storytelling.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/leon-bueno-a85a32b8/)
